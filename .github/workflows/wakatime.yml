@@ -3,14 +3,22 @@ name: Waka
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
     - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
       - uses: hendriari/hendriari@master 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          STOP_AT_OTHER: true
