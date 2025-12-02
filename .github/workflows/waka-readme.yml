@@ -1,9 +1,9 @@
-name: Waka
+name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 0 * * *" # runs every day at midnight
 
 jobs:
   update-readme:
@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - uses: hendriari/hendriari@master 
+
+      - uses: hendriari/hendriari@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
