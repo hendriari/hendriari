@@ -11,6 +11,17 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 November 2025 - To: 01 December 2025
+
+Dart         24 hrs 31 mins  █████████████████████▓░░░   87.07 %
+YAML         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Bash         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Text         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+```
+
 <!--END_SECTION:waka-->
 
 
