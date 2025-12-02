@@ -28,12 +28,10 @@
 </p>
 </div>
 
-
  <h2 align="center">📌 My Contributions & Activity</h2>
  <!--CONTRIBUTION GRAPH-->
 <div>
-<a href="https://github-readme-activity-graph.vercel.app">
-  <img alt="hendriari Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hendriari&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true"/></a>
+<img alt="hendriari Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hendriari&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true"/>
 </div>
 
 <!--PACMAN-->
