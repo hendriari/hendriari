@@ -3,7 +3,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/hendriari/hendriari/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Hi! Nice to meet you 👋<br><br>I'm Hendri Ari — a software developer passionate about Mobile Development 📱  <br>I enjoy building clean, efficient, and user-friendly applications.</h2>
+
+<!-- SNAKE -->
+<!-- <img src="https://raw.githubusercontent.com/hendriari/hendriari/output/snake.svg" alt="Snake animation" /> -->
 
 <h2 align="center">📌 My Github stats</h2>
 <div>
