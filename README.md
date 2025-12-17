@@ -45,13 +45,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2025 - To: 15 December 2025
+From: 09 December 2025 - To: 16 December 2025
 
-Dart          10 hrs 57 mins  ████████████████████▓░░░░   82.26 %
-Markdown      1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-YAML          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Kotlin        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Dart          9 hrs 42 mins   ██████████████████████▓░░   90.00 %
+Markdown      48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+YAML          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Kotlin        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
