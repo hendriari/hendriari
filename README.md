@@ -45,7 +45,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
 Dart         6 hrs 17 mins   █████████████▓░░░░░░░░░░░   54.44 %
 Kotlin       3 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.26 %
