@@ -45,13 +45,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-Dart                   28 hrs 50 mins  ████████████████████▓░░░░   82.55 %
-Kotlin                 1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Markdown               1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Groovy                 1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-YAML                   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Dart                   26 hrs 47 mins  ███████████████████▓░░░░░   78.18 %
+Markdown               1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Kotlin                 1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Groovy                 1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+YAML                   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
