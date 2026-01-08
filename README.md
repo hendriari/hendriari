@@ -45,13 +45,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Dart                   20 hrs 40 mins  █████████████████████░░░░   83.75 %
-Markdown               2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-YAML                   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Groovy                 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-XML                    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Dart                   20 hrs 53 mins  ██████████████████▓░░░░░░   74.28 %
+Markdown               3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+YAML                   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Prolog                 25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Java Properties        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
