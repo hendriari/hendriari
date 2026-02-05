@@ -45,13 +45,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Dart                   14 hrs 6 mins   ███████████████░░░░░░░░░░   59.83 %
-Markdown               2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-YAML                   2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-Kotlin                 53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-JSON                   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Dart               14 hrs 31 mins  ███████████████▓░░░░░░░░░   62.96 %
+YAML               2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Markdown           1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+XML                1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Kotlin             59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
