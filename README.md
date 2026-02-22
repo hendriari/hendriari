@@ -47,10 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Swift          8 hrs 34 mins         ██████████████████▒░░░░░░   73.61 %
-Other          1 hr 4 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Swift            8 hrs 27 mins         ███████████████▓░░░░░░░░░   62.21 %
+Dart             2 hrs 35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Other            1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 ```
 
 <!--END_SECTION:waka-->
