@@ -87,7 +87,7 @@ Other                         3 hrs 15 mins         ███░░░░░░�
 <h3 align="left">📌 Visitors Count</h3>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:hendriari?theme=booru-r6gdrawfriends&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:hendriari?theme=booru-r6gdrawfriends&padding=10&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 <div>
