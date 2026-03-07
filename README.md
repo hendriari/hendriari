@@ -47,10 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Dart                          12 hrs 18 mins        ████████████▒░░░░░░░░░░░░   49.89 %
-Other                         2 hrs 57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Dart                          7 hrs 47 mins         ██████████▒░░░░░░░░░░░░░░   41.51 %
+HTTP Request                  2 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Other                         2 hrs 42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
 ```
 
 <!--END_SECTION:waka-->
