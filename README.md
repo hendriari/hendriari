@@ -47,10 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2026 - To: 15 March 2026
+From: 09 March 2026 - To: 16 March 2026
 
-Swift             4 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Other             3 hrs 54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+Dart                5 hrs 23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+Swift               3 hrs 51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+Other               3 hrs 33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
 ```
 
 <!--END_SECTION:waka-->
