@@ -47,13 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 14 March 2026 - To: 21 March 2026
+From: 15 March 2026 - To: 22 March 2026
 
-Dart                          17 hrs 44 mins        ████████████████░░░░░░░░░   64.56 %
-YAML                          2 hrs 30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Swift                         1 hr 38 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Kotlin                        1 hr 2 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Other                         48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Dart                          18 hrs 30 mins        ██████████████████░░░░░░░   71.39 %
+YAML                          1 hr 57 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Other                         1 hr 2 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
