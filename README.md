@@ -47,10 +47,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2026 - To: 25 March 2026
+From: 19 March 2026 - To: 26 March 2026
 
-Dart                          11 hrs 37 mins        ██████████████████████░░░   87.69 %
-Other                         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Dart                          17 hrs 3 mins         ██████████████████████▒░░   89.06 %
+Other                         31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
