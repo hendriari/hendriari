@@ -47,13 +47,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Dart                          23 hrs 52 mins        ██████████████████████▒░░   89.09 %
-YAML                          1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Application Resource Bundle   27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Markdown                      17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Bash                          15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Dart                          25 hrs 8 mins         █████████████████████▓░░░   86.87 %
+YAML                          1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+TypeScript                    38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Application Resource Bundle   27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Markdown                      21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
