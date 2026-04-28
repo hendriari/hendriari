@@ -47,13 +47,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Dart                   21 hrs 56 mins        ██████████████████▒░░░░░░   72.99 %
-Kotlin                 1 hr 28 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-YAML                   1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown               1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Java Properties        56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Dart                   19 hrs 40 mins        █████████████████▓░░░░░░░   70.39 %
+Kotlin                 1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+YAML                   1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Markdown               1 hr 4 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+TypeScript             1 hr                  █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
