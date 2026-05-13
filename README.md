@@ -47,10 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 10 May 2026
+From: 04 May 2026 - To: 11 May 2026
 
-Dart                          19 hrs 9 mins         ████████████████░░░░░░░░░   64.24 %
-Other                         3 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Dart                          18 hrs 16 mins        █████████████████░░░░░░░░   67.73 %
+Application Resource Bundle   2 hrs 50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Other                         2 hrs 21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 ```
 
 <!--END_SECTION:waka-->
