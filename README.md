@@ -47,11 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2026 - To: 18 August 2026
+From: 12 August 2026 - To: 19 August 2026
 
-Dart           5 hrs 8 mins          ██████████████▓░░░░░░░░░░   59.08 %
-Python         1 hr 6 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Other          50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Dart        6 hrs 24 mins         ████████████████▓░░░░░░░░   66.49 %
+Python      1 hr 6 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Other       49 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
 ```
 
 <!--END_SECTION:waka-->
