@@ -47,11 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Dart         8 hrs 47 mins         ███████████░░░░░░░░░░░░░░   43.65 %
-JavaScript   5 hrs 33 mins         ███████░░░░░░░░░░░░░░░░░░   27.62 %
-Other        3 hrs 14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Dart         8 hrs 28 mins         ███████████░░░░░░░░░░░░░░   43.41 %
+JavaScript   5 hrs 28 mins         ███████░░░░░░░░░░░░░░░░░░   28.03 %
+Other        3 hrs 41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
 ```
 
 <!--END_SECTION:waka-->
