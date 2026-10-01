@@ -47,11 +47,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2026 - To: 29 September 2026
+From: 23 September 2026 - To: 30 September 2026
 
-Dart                          21 hrs 2 mins         ██████████████████▓░░░░░░   75.16 %
-Kotlin                        1 hr 11 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Other                         1 hr 2 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Dart                          18 hrs 35 mins        ██████████████████░░░░░░░   71.87 %
+Other                         1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
