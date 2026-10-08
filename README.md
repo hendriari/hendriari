@@ -47,12 +47,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2026 - To: 06 October 2026
+From: 30 September 2026 - To: 07 October 2026
 
-Dart                          10 hrs 5 mins         █████████████████▓░░░░░░░   71.21 %
-Markdown                      1 hr 50 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-YAML                          27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Other                         24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Dart                          12 hrs 38 mins        ████████████████████▒░░░░   81.71 %
+Markdown                      1 hr 27 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+YAML                          27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+HTTP Request                  15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+XML                           15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
