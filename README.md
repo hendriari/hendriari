@@ -47,13 +47,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Dart                20 hrs 9 mins         █████████████████████▓░░░   86.82 %
-Kotlin              45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Markdown            44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-YAML                37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Other               29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Dart                          19 hrs 54 mins        ██████████████████████░░░   88.08 %
+Other                         53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
