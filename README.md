@@ -47,10 +47,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Dart                          19 hrs 42 mins        █████████████████████▓░░░   86.77 %
-Other                         58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Dart                          13 hrs 19 mins        ████████████████████▓░░░░   83.32 %
+Kotlin                        45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Other                         45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
